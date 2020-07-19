@@ -1,0 +1,5 @@
+int main(void)
+{
+	void x[5];
+	a = x[y[z[5]]+second[third]];
+}

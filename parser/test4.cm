@@ -1,0 +1,14 @@
+int main(void)
+{
+	b=a+a;
+	b=a*b;
+	b=a/w;
+	b=w<a;
+	b=w<=a;
+	b=w>a;
+	b=w>=a;
+	
+
+
+}
+

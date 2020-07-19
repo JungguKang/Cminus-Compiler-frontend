@@ -1,0 +1,4 @@
+void main(void)
+{
+	if(i==0) if(i==2) a = 6; else a = 7;
+}

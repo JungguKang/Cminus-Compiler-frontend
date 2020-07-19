@@ -1,0 +1,10 @@
+int main(void)
+{
+	if(a==5) if(a<3) a = 0; else a = 4;
+	while(add(a,b) == 0)
+			{
+			c = a;
+			}
+
+}
+

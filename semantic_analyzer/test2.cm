@@ -1,0 +1,36 @@
+void main(void)
+{
+	int a;
+	/*variable redefined*/
+	int a;
+	/*void assignment, call parameter error*/
+	a = output(a,b);
+	/*return type error*/
+	return a;
+	
+}
+/*function redefined*/
+void main(void)
+{
+}
+
+int cow(int hi, int arr[])
+{
+	
+	int g;
+	int hight[5];
+	if(g == 1)
+	{
+		/*wrong operand type, scope inside scope */
+		if(hight==1)
+		{
+			int ifInIf;
+		}
+	}
+	
+	if(hight[1] == 3)
+	{
+		int secondIf;
+	}
+	
+}
